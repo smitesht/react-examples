@@ -2,9 +2,14 @@
 It demonstrate the array handling
 
 x Banana DELETE
+
   Apple 
+
   Oranges
+
 x Mango  DELETE
+
   Kiwi
+
 
 
